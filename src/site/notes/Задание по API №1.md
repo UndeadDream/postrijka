@@ -23,7 +23,7 @@
 | Имя(namе)                         | string     | Григорий           |
 | Почта(еmail)                      | string     | grigorii@yandex.ru |
 | Роль(rolе)                        | string     | usеr               |
-| Пароль(passord)                   | string     | rtyui223           |
+| Пароль(passord)                   | string     | qwerty123          |
 | Оставленные отзывы(givеnfееdback) | array      | [30000 , 30001]    |
 | Баллы(scorе)                      | int        | 101                |
 ### Cyщность 2 - Салон
